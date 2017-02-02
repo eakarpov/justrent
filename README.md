@@ -4,5 +4,5 @@
 
 What is done (23.11.2016)
 * Backend: controllers of Product and User requests with tests. (Java, Spring, Groovy, Tomcat, Spring-boot)
-* Frontend: development has begun (Angular, WebPack, Typescript)
+* Frontend: static pages, login and signup, product catalogue, addition, deletion of a product, looking at the page of the product. (Angular, WebPack, Typescript)
 * Documentation: functional requirements, test reports, class, sequence and use-case diagrams.
